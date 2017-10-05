@@ -89,9 +89,12 @@
 -define:UNITY_EDITOR_OSX
 -define:ENABLE_NATIVE_ARRAY_CHECKS
 -define:UNITY_TEAM_LICENSE
+'Assets/MSTAsseats/Script/load/async.cs'
+'Assets/MSTAsseats/Script/load/loadAnimation.cs'
 'Assets/MSTAsseats/Script/utility/BgmManager.cs'
 'Assets/MSTAsseats/Script/utility/FadeManager.cs'
 'Assets/MSTAsseats/Script/utility/SeManager.cs'
+'Assets/MSTAsseats/Script/utility/SingletonBase.cs'
 'Assets/MSTAsseats/Script/utility/timer.cs'
 'Assets/MSTAsseats/Script/utility/touchForUniv.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity/System.Runtime.Serialization.dll'

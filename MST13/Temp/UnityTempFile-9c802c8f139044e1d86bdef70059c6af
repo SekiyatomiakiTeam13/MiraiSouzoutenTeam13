@@ -94,6 +94,7 @@
 'Assets/MSTAsseats/Script/utility/BgmManager.cs'
 'Assets/MSTAsseats/Script/utility/FadeManager.cs'
 'Assets/MSTAsseats/Script/utility/SeManager.cs'
+'Assets/MSTAsseats/Script/utility/SingletonBase.cs'
 'Assets/MSTAsseats/Script/utility/timer.cs'
 'Assets/MSTAsseats/Script/utility/touchForUniv.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
